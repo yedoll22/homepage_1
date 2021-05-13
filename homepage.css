@@ -1,0 +1,11 @@
+* {margin:auto; padding:0px;}
+ul,li {list-style:none;}
+a {text-decoration:none;}
+body {width:1250px; height:auto;}
+header {width:100%; height:250px; background:white;}
+#logo {width:250px; height:50px; float:left; color:gray; font-size:30px; font-weight:bold; text-align:center; line-height:50px;}
+#menu {width:1000px; height:100%;}
+#menu ul li {float:left; width:150px; line-height:50px; background:#000; color:#fff; text-align:center;}
+#menu ul li:hover {background:gray;}
+section {width:100%; height:600px; background:pink;}
+footer {width:100%; height:150px; background:orange;}
